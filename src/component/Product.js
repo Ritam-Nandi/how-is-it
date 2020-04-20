@@ -4,7 +4,8 @@ export default class Product extends Component {
   render() {
     return (
       <div>
-        <h3>List of Products</h3>
+        <h1>Hi Sweety</h1>
+        <h3>Aka Swetha aka Naga aka Kashetty</h3>
       </div>
     );
   }
